@@ -1,10 +1,10 @@
-# composite-eventemitter
+# compositejs/eventemitter
 
 API compatible port of Node.js' EventEmitter to the browser via Component.
 
 ## Installation
 
-**Via `component`:** `$ component install tcr/composite-eventemitter`
+**Via `component`:** `$ component install compositejs/eventemitter`
 
 **Standalone:** Download `lib/EventEmitter.js` and look for the global `EventEmitter` class.
 
