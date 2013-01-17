@@ -1,0 +1,13 @@
+{
+  "name": "composite-eventemitter",
+  "repo": "tcr/composite-eventemitter",
+  "description": "API compatible port of Node.js' EventEmitter.",
+  "version": "0.0.1",
+  "keywords": ["event", "emitter", "eventemitter", "node", "composite", "component"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "src/EventEmitter.js"
+  ]
+}
